@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[lance's Blog]]></title>
+  <link href="http://qmhlan.github.com/atom.xml" rel="self"/>
+  <link href="http://qmhlan.github.com/"/>
+  <updated>2012-11-17T00:35:15+08:00</updated>
+  <id>http://qmhlan.github.com/</id>
+  <author>
+    <name><![CDATA[lance]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
